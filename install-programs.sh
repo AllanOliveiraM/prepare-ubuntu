@@ -48,6 +48,10 @@ sudo apt-get install python3.9 -y
 
 sudo apt install gnome-tweaks -y
 
+sudo apt install gnome-shell-extensions -y
+
+sudo apt install arc-theme -y
+
 sudo apt install zsh -y
 
 sudo usermod -s /usr/bin/zsh $(whoami)
@@ -55,6 +59,8 @@ sudo usermod -s /usr/bin/zsh $(whoami)
 sudo apt install caffeine -y
 
 sudo apt install git -y
+
+mkdir -v ~/.{themes,icons}
 
 sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
