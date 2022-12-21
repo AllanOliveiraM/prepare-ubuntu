@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "editorconfig.editorconfig",
+    "irongeek.vscode-env",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "Gruntfuggly.todo-tree"
+  ]
+}

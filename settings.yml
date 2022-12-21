@@ -1,0 +1,37 @@
+apps:
+  vs-code: true
+  gimp: true
+  chrome: true
+  gnome-tweaks: true
+  gnome-shell-extensions: true
+  caffeine: true
+  zsh: true
+  spotify: true
+  insomnia: true
+  slack: true
+  # VSCode recommended extensions
+  vscode-eslint: true
+  vscode-better-comments: true
+  vscode-jsx-html-tags: true
+  vscode-turbo-console-log: true
+  vscode-markdownlint: true
+  vscode-gitlens: true
+  vscode-editor-config: true
+  vscode-prettier: true
+  vscode-auto-close-tag: true
+  vscode-shell-format: true
+  vscode-todo-tree: true
+  vscode-env: true
+  vscode-liveshare: true
+  vscode-color-highlight: true
+  vscode-material-icon-theme: true
+  vscode-prisma: true
+  vscode-liveserver: true
+  vscode-omni: true
+  vscode-javascript-booster: true
+  vscode-css-auto-prefix: true
+  vscode-auto-import: true
+  vscode-styled-componets: true
+  vscode-sass: true
+  vscode-highlight-matching-tag: true
+  vscode-mdx: true
